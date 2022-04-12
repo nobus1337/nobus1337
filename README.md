@@ -12,8 +12,10 @@
 
 ### ⚡️ Fun fact: I'm a One Piece lover 🏴‍☠️
 
+<br/>
+
 <div align="center">
-<img alt="GIF" align="center" src="">
+<img alt="ZORO-GIF" height="350px" align="center" src="https://github.com/nobus1337/nobus1337/blob/main/roronoa-zoro-purgatory-onigiri.gif">
 </div>
 
 <!---
