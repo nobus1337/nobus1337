@@ -4,27 +4,15 @@
 [![](https://img.shields.io/badge/-@nobus1337-%23181717?style=flat-square&logo=github)](https://github.com/nobus1337)
 
 ### About ME 💬: 
-### I'm 19 years old Cibersecurity Student & Gamer Addict from 🇵🇹
+### I'm 20 years old Cibersecurity Student & Gamer Addict from 🇵🇹
 
-### 🎓 Currently studying at [IPLUSO](https://bytebase.com) 🏫
+### 🎓 Currently studying at Institute of Polytechnic Polytechnic Institute of Setúbal (https://www.ips.pt/) 🏫
 
 ### 📫 Reach me: [![Gmail Badge](https://img.shields.io/badge/-miguelmvpinto-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelmvpinto@gmail.com)](mailto:miguelmvpinto@gmail.com)
 
 ### ⚡️ Fun fact: I'm a One Piece lover 🏴‍☠️
 
 <br/>
-
 <div align="center">
-<img alt="ZORO-GIF" height="350px" align="center" src="https://github.com/nobus1337/nobus1337/blob/main/roronoa-zoro-purgatory-onigiri.gif">
+<img alt="ZORO-GIF" height="375px" align="center" src="https://github.com/nobus1337/nobus1337/blob/main/roronoa-zoro-purgatory-onigiri.gif">
 </div>
-
-<!---
-- 👋 Hi, I’m @nobus1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-nobus1337/nobus1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
